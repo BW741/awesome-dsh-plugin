@@ -1,7 +1,0 @@
-url: https://github.com/BW741/dsh-video-kit
-name: BW741/dsh-video-kit
-category: vision
-description:
-  en: 'Lets the model actually see a video: local ffmpeg samples timestamped stills and faster-whisper transcribes the audio track, so the agent reads real pixels frame by frame instead of trusting a text summary. Fully local, nothing uploaded.'
-  zh: '让模型真的「看见」视频：本地 ffmpeg 按时间抽静帧、faster-whisper 转写音轨，模型逐帧读真实像素，而不是只读一段文字摘要。全程本地，不上传画面。'
-tarball: https://github.com/BW741/dsh-video-kit/releases/latest/download/dsh-video-kit-0.2.2.tgz
